@@ -10,14 +10,14 @@ namespace tabuleiro
                 {
                     if (tab.peca(i, j) == null)
                     {
-                        System.Console.Write("- ");
+                        Console.Write("- ");
                     }
                     else
                     {
-                        System.Console.Write(tab.peca(i, j) + " ");
+                        Console.Write(tab.peca(i, j) + " ");
                     }
                 }
-                System.Console.WriteLine();
+                Console.WriteLine();
             }
         }
     }
