@@ -1,0 +1,14 @@
+D:\ProjetosCSharp\secao10\chess\bin\Debug\net7.0\chess.exe
+D:\ProjetosCSharp\secao10\chess\bin\Debug\net7.0\chess.deps.json
+D:\ProjetosCSharp\secao10\chess\bin\Debug\net7.0\chess.runtimeconfig.json
+D:\ProjetosCSharp\secao10\chess\bin\Debug\net7.0\chess.dll
+D:\ProjetosCSharp\secao10\chess\bin\Debug\net7.0\chess.pdb
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.AssemblyInfoInputs.cache
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.AssemblyInfo.cs
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.csproj.CoreCompileInputs.cache
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.dll
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\refint\chess.dll
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.pdb
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.genruntimeconfig.cache
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\ref\chess.dll
