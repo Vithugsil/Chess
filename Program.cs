@@ -7,19 +7,9 @@ namespace Course
     {
         public static void Main(string[] args)
         {
-            try
-            {
-                Tabuleiro tab = new(8, 8);
-
-                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
-                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
-                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(0, 2));
-                Tela.imprimirTabuleiro(tab);
-            }
-            catch(TabuleiroException ex)
-            {
-                Console.WriteLine($"Error!: {ex.Message}");
-            }
+            PosicaoXadrez pos = new('c', 7);
+            System.Console.WriteLine(pos.ToPosicao());
+            
         }
     }
 }
