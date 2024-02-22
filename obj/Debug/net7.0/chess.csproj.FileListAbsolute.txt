@@ -12,3 +12,4 @@ D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\refint\chess.dll
 D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.pdb
 D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.genruntimeconfig.cache
 D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\ref\chess.dll
+D:\ProjetosCSharp\secao10\chess\obj\Debug\net7.0\chess.sourcelink.json

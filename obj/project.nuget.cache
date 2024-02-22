@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WNjDv/FxyQq9DQngOlocolTsrwWIKIJSkCcOBvk8VWG5fFSxaYR4Jt0HxQK5KMp6UbvDdE/aCr1A/Hm9nRt1zQ==",
+  "dgSpecHash": "+R8A2Gnme3+JeXsVb3rpDQbJVYFi07apZQ79OPkjwccTt+lzCT+uS7WnQ52Zvg+zO8GhL78aKbV3C5uSRl9sww==",
   "success": true,
   "projectFilePath": "D:\\ProjetosCSharp\\secao10\\chess\\chess.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Vitor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Vitor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Vitor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
